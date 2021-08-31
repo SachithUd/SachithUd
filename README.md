@@ -1,6 +1,4 @@
-### Hi there, I'm Sachith Udakara👋
-
-**SachithUd/SachithUd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm Sachith Udakara - aka [SachithUd](https://github.com/SachithUd/)👋
 
 ### I'm a Developer, a Learner and sometimes a Teacher.
 
